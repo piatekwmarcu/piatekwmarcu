@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I’m Emilia 👋
 
-<!--
-**piatekwmarcu/piatekwmarcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build mobile apps in **Flutter/Dart** — from clean UI to **offline-first** data flows and production-ready architecture.
+My main focus is **healthcare/medtech** and real-world apps that must be reliable, fast, and usable.
 
-Here are some ideas to get you started:
+## What I work on
+- **Mobile apps (Flutter/Dart):** feature-first structure, state management, UX-focused screens
+- **Offline-first & sync:** local persistence + sync queues, retries/backoff, conflict-aware updates
+- **Backend integration:** REST APIs / Supabase (auth, DB, storage), data modeling
+- **Python tooling:** data processing, CSV/ETL pipelines, validation scripts, small automations for product/data workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+### MedPharm Pain Assessment App
+Clinical pain tracking (VAS/NRS), enrollment flow, **gamification module**, and **offline-first** storage with syncing.
+Repo: `MedPharmApp_lib`
+
+### MediLyze (in progress)
+Drug interaction & medication support app tailored for the Polish market (drug/disease database + user-friendly warnings).
+
+### Zaczątek App (in progress)
+Multi-location business management app (inventory, staff hours, internal announcements, analytics) built for real restaurant operations.
+
+## Tech stack
+- Flutter / Dart
+- Offline-first (local storage + sync services)
+- Supabase / REST APIs
+- Python (data processing & automation)
+- Git, testing/refactoring, modular architecture
+
+## Links
+- LinkedIn: www.linkedin.com/in/emilia-piotrowska-70a83b2a6
